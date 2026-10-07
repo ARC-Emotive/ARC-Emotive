@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Allen 👋
 
-<!--
-**ARC-Emotive/ARC-Emotive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+VP, Solution Engineering at [**Emotive Software**](https://www.emotivesoftware.com) — we build **Emotive ERP**, an AI-native platform for auto sales and finance (CRM, DMS, collections, accounting and legal recovery on one system), built on **Frappe / ERPNext**.
 
-Here are some ideas to get you started:
+My background is accounting and finance (BBA, UT Arlington), so I sit where the business process meets the code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I work on
+
+- **ERP engineering** — Frappe/ERPNext doctypes, server scripts, scheduled syncs, schema and search configuration for lending and dealership workflows
+- **Integrations** — payment processing, loan-origination systems, OAuth2/SSO, third-party vendor APIs
+- **Data conversions** — Python pipelines that migrate and reshape legacy dealer/lender exports into ERP-ready data
+- **Self-hosted AI infrastructure** — running an 8-node NVIDIA DGX Spark cluster (GB10, 200G RoCE) for large-model inference with vLLM: tensor/expert parallelism, NCCL tuning, Triton kernel patches, and OpenAI-compatible serving
+- **Internal tooling** — interactive training and enablement tools built on live Jira and SharePoint data
+
+#### Toolbox
+
+`Python` · `Frappe / ERPNext` · `MariaDB` · `JavaScript` · `Docker` · `vLLM` · `NCCL / RoCE` · `Linux` · `Jira` · `AWS`
+
+#### Find me
+
+[LinkedIn](https://www.linkedin.com/in/allen-craig-05b10657/) · [emotivesoftware.com](https://www.emotivesoftware.com)
